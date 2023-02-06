@@ -1,9 +1,9 @@
 {
   "name": "puppybowl-react",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -16,5 +16,14 @@
     "react-dom": "^18.2.0",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taitruong123/Puppy-Bow---React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taitruong123/Puppy-Bow---React/issues"
+  },
+  "homepage": "https://github.com/taitruong123/Puppy-Bow---React#readme",
+  "description": ""
 }
